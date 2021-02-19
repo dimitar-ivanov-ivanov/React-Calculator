@@ -1,0 +1,31 @@
+button {
+    background-color: blue;
+    font-size: 16px;
+    padding: 15px 30px;
+    color: white;
+    width: 100px;
+}
+
+.count {
+    font-size: 50px;
+    padding: 15px 30px;
+    display: inline;
+}
+
+.increment,
+.decrement,
+.multiply,
+.divide {
+    padding: 15px;
+    display: inline-block;
+}
+
+.reset {
+    background-color: red;
+    width: 200px;
+    border-radius: 10px;
+}
+
+body {
+    padding: 15px 30px
+}
